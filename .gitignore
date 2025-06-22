@@ -1,0 +1,39 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Build output
+/out/
+*/out/
+build/
+target/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+/logs/
+*.class
+
+# Kotlin build
+*.kotlin_module
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Ignore compiled libraries
+*.jar
+*.war
+*.ear
+
+# Optional: ignore environment files or configs
+.env
